@@ -24,7 +24,6 @@ body {
   margin: 10px;
 }
 
-
 .read-more {
   background-color: dodgerblue;
   color: white;
@@ -34,3 +33,7 @@ body {
   border-radius: 6px;
 }
 
+.post-excerpt {
+  margin-bottom: 30px;
+  color: #4a4a4a;
+}
