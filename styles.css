@@ -24,3 +24,13 @@ body {
   margin: 10px;
 }
 
+
+.read-more {
+  background-color: dodgerblue;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 6px;
+}
+
