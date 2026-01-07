@@ -6,3 +6,7 @@
   height: 500px;
   margin: 100px auto;
 }
+
+body {
+  background-color: #f0f8ff;
+}
