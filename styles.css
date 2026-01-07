@@ -16,3 +16,11 @@ body {
   border-radius: 10px 10px 0px 0px;
   border-bottom: 5px solid dodgerblue;
 }
+
+.post-content {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: #1a1a1a;
+  text-align: center;
+  margin: 10px;
+}
+
